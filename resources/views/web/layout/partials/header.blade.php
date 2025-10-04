@@ -23,9 +23,9 @@
                     <a href="{{ route('contacts') }}">Contact</a>
                 </li>
 
-                <li class="{{ request()->routeIs('blog.*') ? 'active-menu' : '' }}">
+                <!-- <li class="{{ request()->routeIs('blog.*') ? 'active-menu' : '' }}">
                     <a href="{{ route('blog.index') }}">Blogs</a>
-                </li>
+                </li> -->
             </ul>
         </div>
     </div>
