@@ -738,7 +738,7 @@ textarea:-ms-input-placeholder {
 
 @media only screen and (max-width: 1199px) {
   .header-logo a img {
-    width: 130px;
+    width: 60px;
   }
 }
 

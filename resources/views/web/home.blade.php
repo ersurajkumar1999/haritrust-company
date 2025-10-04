@@ -1,8 +1,5 @@
 @extends('web.layout.app')
 @section('title', 'Home')
-<!-- @push('css')
-<link rel="stylesheet" href="{{ asset('assets/vendor/css/pages/page-profile.css') }}">
-@endpush -->
 @section('content')
 
 <!-- Hero Start -->
