@@ -75,7 +75,6 @@
                         <div class="info-content">
                             <h5 class="title">Give us a call</h5>
                             <p>+91 993 579 1911</p>
-                            <p>+91 993 579 1911</p>
                         </div>
                     </div>
                     <!--Single Contact Info End -->
@@ -89,7 +88,7 @@
                         <div class="info-content">
                             <h5 class="title">Drop us a line</h5>
                             <p>info@haritrust.org</p>
-                            <p>info@haritrust.org</p>
+                            <p>haritrust.org@gmail.com</p>
                         </div>
                     </div>
                     <!--Single Contact Info End -->
@@ -102,7 +101,7 @@
                         </div>
                         <div class="info-content">
                             <h5 class="title">Visit our office</h5>
-                            <p>MOHALLA CHOWK, near KHATU SHYAM MANDIR, Shahabad, Uttar Pradesh 241124.</p>
+                            <p>1107 skyline plaza 3 near lulu mall lucknow.<p>
                         </div>
                     </div>
                     <!--Single Contact Info End -->
