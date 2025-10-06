@@ -11,9 +11,9 @@
              <div class="header-social">
                  <span class="label">Follow Us</span>
                  <ul>
-                     <li><a href="#"><i class="fab fa-facebook-square"></i></a></li>
-                     <li><a href="#"><i class="fab fa-twitter"></i> </a></li>
-                     <li><a href="#"><i class="fab fa-pinterest"></i> </a></li>
+                     <li><a href="https://www.facebook.com/hmetv1"><i class="fab fa-facebook-square"></i></a></li>
+                     <li><a href="https://x.com/hmetvmall"><i class="fab fa-twitter"></i> </a></li>
+                     <li><a href="https://www.instagram.com/hmetvmall"><i class="fab fa-pinterest"></i> </a></li>
                      <li><a href="#"><i class="fab fa-github"></i></a></li>
                      <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                  </ul>

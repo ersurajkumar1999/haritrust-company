@@ -74,8 +74,8 @@
                         </div>
                         <div class="info-content">
                             <h5 class="title">Give us a call</h5>
-                            <p>(+1) 400-630 123</p>
-                            <p>(+2) 500-950 456</p>
+                            <p>+91 993 579 1911</p>
+                            <p>+91 993 579 1911</p>
                         </div>
                     </div>
                     <!--Single Contact Info End -->
@@ -88,8 +88,8 @@
                         </div>
                         <div class="info-content">
                             <h5 class="title">Drop us a line</h5>
-                            <p>info@techwix-theme.com</p>
-                            <p>mail@techwix-tech.com</p>
+                            <p>info@haritrust.org</p>
+                            <p>info@haritrust.org</p>
                         </div>
                     </div>
                     <!--Single Contact Info End -->
@@ -102,7 +102,7 @@
                         </div>
                         <div class="info-content">
                             <h5 class="title">Visit our office</h5>
-                            <p>New York. 112 W 34th St caroline, USA</p>
+                            <p>MOHALLA CHOWK, near KHATU SHYAM MANDIR, Shahabad, Uttar Pradesh 241124.</p>
                         </div>
                     </div>
                     <!--Single Contact Info End -->
@@ -181,7 +181,7 @@
 <!-- Contact Map Start -->
 <div class="section contact-map-section">
     <div class="contact-map-wrap">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29222.333089873697!2d-74.00620796556026!3d40.70371632382034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1695503537999!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3534.3662476100494!2d79.9447096!3d27.6441382!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399fadf876697559%3A0xf6aa2a0e5b82248b!2sHME%20GROUP!5e0!3m2!1sen!2sin!4v1759767221249!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 </div>
 @endsection
